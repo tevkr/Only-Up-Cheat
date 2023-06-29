@@ -24,11 +24,8 @@ It may be necessary to install the [.NET Framework 4.8 Runtime](https://dotnet.m
 ## Showcase
 ### Cheat interface
 ![application_1](https://github.com/tevkr/Only-Up-Cheat/blob/main/ReadMeImages/Application_1.png)
-
 ![application_2](https://github.com/tevkr/Only-Up-Cheat/blob/main/ReadMeImages/Application_2.png)
-
 ![application_3](https://github.com/tevkr/Only-Up-Cheat/blob/main/ReadMeImages/Application_3.png)
-
 ### Features
 #### Fly
 ![fly](https://github.com/tevkr/Only-Up-Cheat/blob/main/ReadMeImages/Fly.gif)
