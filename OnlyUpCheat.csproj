@@ -163,7 +163,6 @@
   <ItemGroup>
     <Resource Include="Img\icon.ico" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
     <Resource Include="ReadMeImages\Fly.gif" />
   </ItemGroup>
@@ -174,6 +173,9 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="ReadMeImages\Checkpoint.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include=".gitignore" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

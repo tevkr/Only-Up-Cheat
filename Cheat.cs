@@ -14,14 +14,28 @@ namespace OnlyUpCheat
         private static (double X, double Y, double Z) _checkpoint = (3803.3, 16388.51, -3460.4);
         private static Player _player = null;
         private static bool _prevInGameState = false;
+        private static bool _disposed = false;
         public static void Start()
         {
             MemoryManager.Initialize();
             _player = new Player();
+            _disposed = false;
             UpdateAddr();
+            Task.Run(() => { InGameChecker(); });
             KeyBoardManager.FlyHackKeyPressed += FlyHackKeyPressedHandler;
             KeyBoardManager.SaveCheckpointKeyPressed += SaveCheckpointKeyPressedHandler;
             KeyBoardManager.TeleportToCheckpointKeyPressed += TeleportToCheckpointKeyPressed;
+        }
+        private static void InGameChecker()
+        {
+            int magicNumber = 63;
+            while (!_disposed)
+            {
+                if (_player.InGameState != magicNumber)
+                {
+                    _prevInGameState = false;
+                }
+            }
         }
         private static bool IsInGame()
         {
@@ -104,6 +118,7 @@ namespace OnlyUpCheat
             if (!IsInGame())
             {
                 FlyHackEnabled = false;
+                _prevInGameState = false;
                 AddrError?.Invoke();
             }
         }
@@ -127,6 +142,8 @@ namespace OnlyUpCheat
         {
             _checkpoint = (3803.3, 16388.51, -3469.4);
             FlyHackEnabled = false;
+            _prevInGameState = false;
+            _disposed = true;
             KeyBoardManager.FlyHackKeyPressed -= FlyHackKeyPressedHandler;
             KeyBoardManager.SaveCheckpointKeyPressed -= SaveCheckpointKeyPressedHandler;
             KeyBoardManager.TeleportToCheckpointKeyPressed -= TeleportToCheckpointKeyPressed;

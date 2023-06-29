@@ -1,11 +1,12 @@
 ﻿[![en](https://img.shields.io/badge/Lang-en-blue.svg)](https://github.com/tevkr/Only-Up-Cheat/blob/main/README.md)
 [![ru](https://img.shields.io/badge/Lang-ru-blue.svg)](https://github.com/tevkr/Only-Up-Cheat/blob/main/README.ru-RU.md)
-[![virustotal](https://img.shields.io/badge/VirusTotal-0/62-green.svg?logo=virustotal)](https://www.virustotal.com/gui/file/f29812728c224ab70f16d74189de2abc124bd473ffa713aeadb7c06a31602721)
+[![virustotal](https://img.shields.io/badge/VirusTotal-0/62-green.svg?logo=virustotal)](https://www.virustotal.com/gui/file/1e6860c8982ab86e1aec1d71772147e8af21ee14befeb1b9ab3d585e95bea395)
 [![download](https://img.shields.io/badge/Download-Latest-green.svg)](https://github.com/tevkr/Only-Up-Cheat/releases/latest)
 
 Only Up cheat - чит на полет и чекпоинты в игре Only Up!
 
 ## Предупреждение
+Чит предназначен для Steam версии.
 Возможно, для корректной работы потребуется будет установить [.NET Framework 4.8 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-offline-installer).
 
 ## Горячие клавиши
