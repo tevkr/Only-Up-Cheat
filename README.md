@@ -7,6 +7,7 @@ Only Up cheat - cheat on flight and checkpoints in the game Only Up!
 
 ## Warning
 The cheat is designed for the Steam version.
+
 It may be necessary to install the [.NET Framework 4.8 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-offline-installer) for correct operation.
 
 ## Hotkeys

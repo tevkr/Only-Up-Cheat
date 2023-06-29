@@ -7,6 +7,7 @@ Only Up cheat - чит на полет и чекпоинты в игре Only Up
 
 ## Предупреждение
 Чит предназначен для Steam версии.
+
 Возможно, для корректной работы потребуется будет установить [.NET Framework 4.8 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-offline-installer).
 
 ## Горячие клавиши
