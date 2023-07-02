@@ -1,6 +1,6 @@
 ﻿[![en](https://img.shields.io/badge/Lang-en-blue.svg)](https://github.com/tevkr/Only-Up-Cheat/blob/main/README.md)
 [![ru](https://img.shields.io/badge/Lang-ru-blue.svg)](https://github.com/tevkr/Only-Up-Cheat/blob/main/README.ru-RU.md)
-[![virustotal](https://img.shields.io/badge/VirusTotal-0/62-green.svg?logo=virustotal)](https://www.virustotal.com/gui/file/1e6860c8982ab86e1aec1d71772147e8af21ee14befeb1b9ab3d585e95bea395)
+[![virustotal](https://img.shields.io/badge/VirusTotal-0/63-green.svg?logo=virustotal)](https://www.virustotal.com/gui/file/e550fe05ebb88310274ef2bf209f12c6e7638b09609e434b265baaa611372583)
 [![download](https://img.shields.io/badge/Download-Latest-green.svg)](https://github.com/tevkr/Only-Up-Cheat/releases/latest)
 
 Only Up cheat - чит на полет и чекпоинты в игре Only Up!
