@@ -1,6 +1,6 @@
 ﻿[![en](https://img.shields.io/badge/Lang-en-blue.svg)](https://github.com/tevkr/Only-Up-Cheat/blob/main/README.md)
 [![ru](https://img.shields.io/badge/Lang-ru-blue.svg)](https://github.com/tevkr/Only-Up-Cheat/blob/main/README.ru-RU.md)
-[![virustotal](https://img.shields.io/badge/VirusTotal-0/63-green.svg?logo=virustotal)](https://www.virustotal.com/gui/file/e550fe05ebb88310274ef2bf209f12c6e7638b09609e434b265baaa611372583)
+[![virustotal](https://img.shields.io/badge/VirusTotal-0/62-green.svg?logo=virustotal)](https://www.virustotal.com/gui/file/4d9170c11dd87ed6080266138c67e2576e9dfeb38e16fd4c3e263c02eb745e26)
 [![download](https://img.shields.io/badge/Download-Latest-green.svg)](https://github.com/tevkr/Only-Up-Cheat/releases/latest)
 
 Only Up cheat - cheat on flight and checkpoints in the game Only Up!
