@@ -18,9 +18,9 @@ It may be necessary to install the [.NET Framework 4.8 Runtime](https://dotnet.m
 <kbd>T</kbd> - Teleport to the checkpoint
 
 ## Launch order
-1) Launch `OnlyUpCheat.exe`
-2) Launch `Only Up!` game
-3) Click the `Play` button
+1) Launch `Only Up!` game
+2) Click the `Play` button
+3) Launch `OnlyUpCheat.exe`
 4) Use a cheat
 
 ## Showcase
